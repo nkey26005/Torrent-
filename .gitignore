@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+downloads/
+*.aria2
+*.torrent
+.env
+.idea/
+.vscode/
